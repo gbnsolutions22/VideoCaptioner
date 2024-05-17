@@ -1,0 +1,5 @@
+Flask
+Werkzeug
+moviepy
+opencv-python
+gtts
